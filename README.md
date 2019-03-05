@@ -4,7 +4,7 @@ Uma Simples calculadora feita em React Native
 # Screenshot
   ![](https://github.com/denmarksdev/calculadora_react_native/blob/master/calculadora.JPG?raw=true "Calculadora APP")
 
-# Requisítos
+# Requisitos
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/) ou [npm](https://www.npmjs.com/get-npm)
 - [Expo](https://expo.io/)
